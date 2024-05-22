@@ -5,6 +5,7 @@ package open
 
 import (
 	"fmt"
+	"os"
 	"os/exec"
 )
 
